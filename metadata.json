@@ -1,0 +1,7 @@
+{
+  "name": "A Healthy Addiction",
+  "description": "Botanical research portal featuring 100 condition protocols, Movement as Medicine, Apothecary preparations, Maternal Safety tags, and Holistic Practitioner Directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
